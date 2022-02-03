@@ -1,15 +1,17 @@
 class script(object):
     START_TXT = """<b>𝙷𝙴𝙻𝙾 𝙳𝚄𝙳𝙴 {},
-🙋‍♂ 𝙸 𝙰𝙼 𝙰𝙽 𝚂𝚄𝙿𝙴𝚁 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙱𝙾𝚃 𝚃𝙾 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝙸𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙶𝚁𝙾𝚄𝙿𝚂...\n\n 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝚆𝙸𝚃𝙷 𝙰𝙳𝙼𝙸𝙽 𝚁𝙸𝙶𝙷𝚃𝚂 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 𝙼𝚈 𝚂𝙴𝚁𝚅𝙸𝙲𝙴 🤠..\n\n❣️ 𝙾𝚆𝙽𝙴𝚁 : <a href='https//telegram.dog/heart_recipe'>➳ ✰ 𝑶𝒐 𝑰𝒕'𝒔 𝑴𝒆 🤦</a></b>"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
+🙋‍♂ 𝙸 𝙰𝙼 𝙰𝙽 𝚂𝚄𝙿𝙴𝚁 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙱𝙾𝚃 𝚃𝙾 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝙸𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙶𝚁𝙾𝚄𝙿𝚂...\n\n 😉 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝚆𝙸𝚃𝙷 𝙰𝙳𝙼𝙸𝙽 𝚁𝙸𝙶𝙷𝚃𝚂 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 𝙼𝚈 𝚂𝙴𝚁𝚅𝙸𝙲𝙴 🤠..\n\n❣️𝙾𝚆𝙽𝙴𝚁 : <a href='https//telegram.dog/heart_recipe'>➳ ✰ 𝑶𝒐 𝑰𝒕'𝒔 𝑴𝒆 🤦</a></b>"""
+    HELP_TXT = """𝙷𝙴𝚈 𝙱𝚁𝚄𝙷 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href='https://telegram.dog/heart_recipe'>➳ ✰ 𝑶𝒐 𝑰𝒕'𝒔 𝑴𝒆 🤦</a>
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href='https://docs.pyrogram.com'>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂   : v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
+  𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href='https://telegram.dog/VK_LINKZ'>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+  𝙼𝙾𝚅𝙸𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href='https://telegram.dog/+XX7Ox8faMtE1ZTY1'>𝚃𝙾𝚄𝙲𝙷 𝙷𝙴𝚁𝙴</a>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
