@@ -94,7 +94,7 @@ async def start(client, message):
             InlineKeyboardButton('📣 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🌟', url='https://t.me/VK_LINKZ')
             ],[
             InlineKeyboardButton('⚠️ 𝙼𝙾𝚅𝙸𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 🎬', url='https://t.me/+XX7Ox8faMtE1ZTY1'),
-            InlineKeyboardButton('❣️ 𝙾𝚆𝙽𝙴𝚁🍹', url='https://t.me/heart_recipe)
+            InlineKeyboardButton('❣️ 𝙾𝚆𝙽𝙴𝚁🍹', url='https://t.me/heart_recipe')
             ],[
             InlineKeyboardButton('💌 𝙷𝙴𝙻𝙿 😥', callback_data='help'),
             InlineKeyboardButton('💓 𝙰𝙱𝙾𝚄𝚃 🗑', callback_data='about')
